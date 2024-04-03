@@ -1,8 +1,7 @@
 # Kaluta_Dictionary
 Aplicativo Web de un diccionario virtual realizado con Google Apps Script (GAS)
 
-=========================================
-=========================================
+#
 
 **RECOMENDAMOS ABRIR LOS ENLACES EN PESTAÑAS EN INCOGNITO**
 
